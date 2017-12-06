@@ -27,3 +27,4 @@ if [[ ! -d $bindir ]]; then
 		exit 1
 	fi
 fi
+
